@@ -197,7 +197,7 @@ Instance.new("UICorner", MinusBtn)
 
 
 -- ANIL V2 PATTERNS (NO EMOJIS = MAX SPEED)
-local phrases = {"Tmkx lola","Tmkx sutur murg","Tmkx telephone","Tmkx hijraa","Tmkx ghanta","Tmkx bhangi","Tmkx chakka","Tmkx ethiopia","ANIL PAPA BOL"}
+local phrases = {"🫣Tmkx SUN🫣","🤣Tmkx sutur murg🤣","🥰Tmkx Taj Mahal🥰","🏖️Tmkx AUSTRALIA🏖️","🏘️Tmkx 8 wonder🏘️","🩸Tmkx Wave🩸","🕷️TMKC SPIDER 456🕷️","👽Tmkx IRONMAN👽","⚡️ANIL PAPA BOL⚡️"}
 local patterns = {"@","#-","@#"}
 local patternIndex = 1
 local currentDelay = 1
